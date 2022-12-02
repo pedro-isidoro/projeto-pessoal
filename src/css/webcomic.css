@@ -1,0 +1,44 @@
+/* ---- Informação ---- */
+/* ---- Título Webcomic ---- */
+h2{
+    text-decoration: underline 5px;
+}
+
+.titulo-webcomic-1{
+    text-decoration-color: #dc6d37;
+}
+
+.titulo-webcomic-2{
+    text-decoration-color: #4c5e68;
+}
+
+/* .titulo-webcomic-3{
+    text-decoration-color: black;
+} */
+
+/* ---- imagens Webcomic ---- */
+.imagem-webcomic-left img{
+    float: left;
+    width: 35%;
+    margin-right: 15px;
+    border: solid 5px;
+}
+
+.imagem-webcomic-right img{
+    float: right;
+    width: 35%;
+    margin-left: 15px;
+    border: solid 5px;
+}
+
+.imagem-webcomic-1 img{
+    border-color: #dc6d37;
+}
+
+.imagem-webcomic-2 img{
+    border-color: #4c5e68;
+}
+
+/* .imagem-webcomic-3 img{
+    border-color: black;
+} */

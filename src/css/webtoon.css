@@ -1,0 +1,262 @@
+/* ---- Informação ---- */
+/* ---- Título Webtoon---- */
+h2{
+    text-decoration: underline 5px;
+}
+
+.titulo-webtoon-1{
+    text-decoration-color: #1d84ba;
+}
+
+.titulo-webtoon-2{
+    text-decoration-color: #80929e;
+}
+
+.titulo-webtoon-3{
+    text-decoration-color: #6b2724;
+}
+
+.titulo-webtoon-4{
+    text-decoration-color: #957f7b;
+}
+
+.titulo-webtoon-5{
+    text-decoration-color: #00295f;
+}
+
+.titulo-webtoon-6{
+    text-decoration-color: #9a1d07;
+}
+
+.titulo-webtoon-7{
+    text-decoration-color: #0c7735;
+}
+
+.titulo-webtoon-8{
+    text-decoration-color: #335cb5;
+}
+
+.titulo-webtoon-9{
+    text-decoration-color: #38292e;
+}
+
+.titulo-webtoon-10{
+    text-decoration-color: #777c9b;
+}
+
+.titulo-webtoon-11{
+    text-decoration-color: #a84135;
+}
+
+.titulo-webtoon-12{
+    text-decoration-color: #367a85;
+}
+
+.titulo-webtoon-13{
+    text-decoration-color: #3e172d;
+}
+
+.titulo-webtoon-14{
+    text-decoration-color: #302760;
+}
+
+.titulo-webtoon-15{
+    text-decoration-color: #751a2b;
+}
+
+.titulo-webtoon-16{
+    text-decoration-color: #1d4a86;
+}
+
+.titulo-webtoon-17{
+    text-decoration-color: #d30814;
+}
+
+.titulo-webtoon-18{
+    text-decoration-color: #8b4b38;
+}
+
+.titulo-webtoon-19{
+    text-decoration-color: #5288b9;
+}
+
+.titulo-webtoon-20{
+    text-decoration-color: #677588;
+}
+
+.titulo-webtoon-21{
+    text-decoration-color: #d23a26;
+}
+
+.titulo-webtoon-22{
+    text-decoration-color: #9c5286;
+}
+
+.titulo-webtoon-23{
+    text-decoration-color: #555579;
+}
+
+.titulo-webtoon-24{
+    text-decoration-color: #181818;
+}
+
+.titulo-webtoon-25{
+    text-decoration-color: #807290;
+}
+
+.titulo-webtoon-26{
+    text-decoration-color: #821b21;
+}
+
+.titulo-webtoon-27{
+    text-decoration-color: #38435f;
+}
+
+.titulo-webtoon-28{
+    text-decoration-color: #8e343e;
+}
+
+.titulo-webtoon-29{
+    text-decoration-color: #4f0a4e;
+}
+
+/* .titulo-webtoon-30{
+    text-decoration-color: black;
+} */
+
+/* ---- imagens Webtoon ---- */
+.imagem-webtoon-right img{
+    float: right;
+    width: 35%;
+    margin-left: 15px;
+    border: solid 5px;
+}
+
+.imagem-webtoon-left img{
+    float: left;
+    width: 35%;
+    margin-right: 15px;
+    border: solid 5px;
+}
+
+.imagem-webtoon-1 img{
+    border-color: #1d84ba;
+}
+
+.imagem-webtoon-2 img{
+    border-color: #80929e;
+}
+
+.imagem-webtoon-3 img{
+    border-color: #6b2724;
+}
+
+.imagem-webtoon-4 img{
+    border-color: #957f7b;
+}
+
+.imagem-webtoon-5 img{
+    border-color: #00295f;
+}
+
+.imagem-webtoon-6 img{
+    border-color: #9a1d07;
+}
+
+.imagem-webtoon-7 img{
+    border-color: #0c7735;
+}
+
+.imagem-webtoon-8 img{
+    border-color: #335cb5;
+}
+
+.imagem-webtoon-9 img{
+    border-color: #38292e;
+}
+
+.imagem-webtoon-10 img{
+    border-color: #777c9b;
+}
+
+.imagem-webtoon-11 img{
+    border-color: #a84135;
+}
+
+.imagem-webtoon-12 img{
+    border-color: #367a85;
+}
+
+.imagem-webtoon-13 img{
+    border-color: #3e172d;
+}
+
+.imagem-webtoon-14 img{
+    border-color: #302760;
+}
+
+.imagem-webtoon-15 img{
+    border-color: #751a2b;
+}
+
+.imagem-webtoon-16 img{
+    border-color: #1d4a86;
+}
+
+.imagem-webtoon-17 img{
+    border-color: #d30814;
+}
+
+.imagem-webtoon-18 img{
+    border-color: #8b4b38;
+    width: 25%;
+}
+
+.imagem-webtoon-19 img{
+    border-color: #5288b9;
+    width: 25%;
+}
+
+.imagem-webtoon-20 img{
+    border-color: #677588;
+}
+
+.imagem-webtoon-21 img{
+    border-color: #d23a26;
+}
+
+.imagem-webtoon-22 img{
+    border-color: #9c5286;
+}
+
+.imagem-webtoon-23 img{
+    border-color: #555579;
+}
+
+.imagem-webtoon-24 img{
+    border-color: #181818;
+}
+
+.imagem-webtoon-25 img{
+    border-color: #807290;
+}
+
+.imagem-webtoon-26 img{
+    border-color: #821b21;
+}
+
+.imagem-webtoon-27 img{
+    border-color: #38435f;
+}
+
+.imagem-webtoon-28 img{
+    border-color: #8e343e;
+}
+
+.imagem-webtoon-29 img{
+    border-color: #4f0a4e;
+}
+
+/* .imagem-webtoon-30 img{
+    border-color: black;
+} */

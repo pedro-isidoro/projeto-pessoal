@@ -1,0 +1,340 @@
+/* ---- Informação ---- */
+/* ---- Título mangas---- */
+h2{
+    text-decoration: underline 5px;
+}
+
+.titulo-manga-1{
+    text-decoration-color: red;
+}
+
+.titulo-manga-2{
+    text-decoration-color: orangered;
+}
+
+.titulo-manga-3{
+    text-decoration-color: #953b44;
+}
+
+.titulo-manga-4{
+    text-decoration-color: #3a8c70;
+}
+
+.titulo-manga-5{
+    text-decoration-color: #918e47;
+}
+
+.titulo-manga-6{
+    text-decoration-color: #a58273;
+}
+
+.titulo-manga-7{
+    text-decoration-color: #f7ce5d;
+}
+
+.titulo-manga-8{
+    text-decoration-color: #989789;
+}
+
+.titulo-manga-9{
+    text-decoration-color: #307526;
+}
+
+.titulo-manga-10{
+    text-decoration-color: #dbb762;
+}
+
+.titulo-manga-11{
+    text-decoration-color: #333534;
+}
+
+.titulo-manga-12{
+    text-decoration-color: #010101;
+}
+
+.titulo-manga-13{
+    text-decoration-color: #aa1420;
+}
+
+.titulo-manga-14{
+    text-decoration-color: #194b4c;
+}
+
+.titulo-manga-15{
+    text-decoration-color: #3754b8;
+}
+
+.titulo-manga-16{
+    text-decoration-color: #fe0000;
+}
+
+.titulo-manga-17{
+    text-decoration-color: #ff5c6d;
+}
+
+.titulo-manga-18{
+    text-decoration-color: #6a6c76;
+}
+
+.titulo-manga-19{
+    text-decoration-color:#b51925;
+}
+
+.titulo-manga-20{
+    text-decoration-color: #4b5b76;
+}
+
+.titulo-manga-21{
+    text-decoration-color: #515e38;
+}
+
+.titulo-manga-22{
+    text-decoration-color: #c98b28;
+}
+
+.titulo-manga-23{
+    text-decoration-color: #7aadf3;
+}
+
+.titulo-manga-24{
+    text-decoration-color: #c775c3;
+}
+
+.titulo-manga-25{
+    text-decoration-color: #90730f;
+}
+
+.titulo-manga-26{
+    text-decoration-color: #9fafbe;
+}
+
+.titulo-manga-27{
+    text-decoration-color: #4bc1d5;
+}
+
+.titulo-manga-28{
+    text-decoration-color: #bd7482;
+}
+
+.titulo-manga-29{
+    text-decoration-color: #2e2124;
+}
+
+.titulo-manga-30{
+    text-decoration-color: #f14799;
+}
+
+.titulo-manga-31{
+    text-decoration-color: #cb5432;
+}
+
+.titulo-manga-32{
+    text-decoration-color: #444b92;
+}
+
+.titulo-manga-33{
+    text-decoration-color: #7d1029;
+}
+
+.titulo-manga-34{
+    text-decoration-color: #333263;
+}
+
+.titulo-manga-35{
+    text-decoration-color: #335f52;
+}
+
+.titulo-manga-36{
+    text-decoration-color: #660608;
+}
+
+.titulo-manga-37{
+    text-decoration-color: #858162;
+}
+
+.titulo-manga-38{
+    text-decoration-color: #4b5638;
+}
+
+.titulo-manga-39{
+    text-decoration-color: #fca82a;
+}
+
+/* .titulo-manga-40{
+    text-decoration-color: black;
+} */
+
+/* ---- imagens manga ---- */
+.imagem-manga-left img{
+    float: left;
+    width: 35%;
+    margin-right: 15px;
+    border: solid 5px;
+}
+
+.imagem-manga-right img{
+    float: right;
+    width: 35%;
+    margin-left: 15px;
+    border: solid 5px;
+}
+
+.imagem-manga-1 img{
+    border-color:red;
+}
+
+.imagem-manga-2 img{
+    border-color:orangered;
+}
+
+.imagem-manga-3 img{
+    border-color:#953b44;
+}
+
+.imagem-manga-4 img{
+    border-color:#3a8c70;
+}
+
+.imagem-manga-5 img{
+    border-color:#918e47;
+}
+
+.imagem-manga-6 img{
+    border-color:#a58273;
+}
+
+.imagem-manga-7 img{
+    border-color: #f7ce5d;
+}
+
+.imagem-manga-8 img{
+    border-color: #989789;
+}
+
+.imagem-manga-9 img{
+    border-color: #307526;
+}
+
+.imagem-manga-10 img{
+    border-color: #dbb762;
+}
+
+.imagem-manga-11 img{
+    border-color: #333534;
+}
+
+.imagem-manga-12 img{
+    border-color: #010101;
+}
+
+.imagem-manga-13 img{
+    border-color: #aa1420;
+}
+
+.imagem-manga-14 img{
+    border-color: #194b4c;
+}
+
+.imagem-manga-15 img{
+    border-color: #3754b8;
+}
+
+.imagem-manga-16 img{
+    border-color: #fe0000;
+}
+
+.imagem-manga-17 img{
+    border-color: #ff5c6d;
+}
+
+.imagem-manga-18 img{
+    border-color: #6a6c76;
+}
+
+.imagem-manga-19 img{
+    border-color: #b51925;  
+}
+
+.imagem-manga-20 img{
+    border-color: #4b5b76;
+}
+
+.imagem-manga-21 img{
+    border-color: #515e38;
+}
+
+.imagem-manga-22 img{
+    border-color: #c98b28;
+}
+
+.imagem-manga-23 img{
+    border-color: #7aadf3;
+}
+
+.imagem-manga-24 img{
+    border-color: #c775c3;
+}
+
+.imagem-manga-25 img{
+    border-color: #90730f;
+}
+
+.imagem-manga-26 img{
+    border-color: #9fafbe;
+}
+
+.imagem-manga-27 img{
+    border-color: #4bc1d5;
+}
+
+.imagem-manga-28 img{
+    border-color: #bd7482;
+}
+
+.imagem-manga-29 img{
+    border-color: #2e2124;
+}
+
+.imagem-manga-30 img{
+    border-color: #f14799;
+}
+
+.imagem-manga-31 img{
+    border-color: #cb5432;
+}
+
+.imagem-manga-32 img{
+    border-color: #444b92;
+}
+
+.imagem-manga-33 img{
+    border-color: #7d1029;
+}
+
+.imagem-manga-34 img{
+    border-color: #333263;
+}
+
+.imagem-manga-35 img{
+    border-color: #335f52;
+}
+
+.imagem-manga-36 img{
+    border-color: #660608;
+}
+
+.imagem-manga-37 img{
+    border-color: #858162;
+}
+
+.imagem-manga-38 img{
+    border-color: #4b5638;
+}
+
+.imagem-manga-39 img{
+    border-color: #fca82a;
+}
+
+/* .imagem-manga-40 img{
+    border-color: black;
+} */

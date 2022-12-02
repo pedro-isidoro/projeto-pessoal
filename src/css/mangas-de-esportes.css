@@ -1,0 +1,68 @@
+/* ---- Informação ---- */
+/* ---- Título mangas---- */
+h2{
+    text-decoration: underline 5px;
+}
+
+.titulo-esporte-1{
+    text-decoration-color: #DA5D21;
+}
+
+.titulo-esporte-2{
+    text-decoration-color: #172a53;
+}
+
+.titulo-esporte-3{
+    text-decoration-color: #e16a1c;
+}
+
+.titulo-esporte-4{
+    text-decoration-color: #a6183e;
+}
+
+.titulo-esporte-5{
+    text-decoration-color: #162077;
+}
+
+/* .titulo-esporte-6{
+    text-decoration-color: black;
+} */
+
+/* ---- imagens manga ---- */
+.imagem-esporte-left img{
+    float: left;
+    width: 35%;
+    margin-right: 15px;
+    border: solid 5px;
+}
+
+.imagem-esporte-right img{
+    float: right;
+    width: 35%;
+    margin-left: 15px;
+    border: solid 5px;
+}
+
+.imagem-esporte-1 img{
+    border-color: #DA5D21;
+}
+
+.imagem-esporte-2 img{
+    border-color: #172a53;
+}
+
+.imagem-esporte-3 img{
+    border-color: #e16a1c;
+}
+
+.imagem-esporte-4 img{
+    border-color: #a6183e;
+}
+
+.imagem-esporte-5 img{
+    border-color: #162077;
+}
+
+/* .imagem-esporte-6 img{
+    border-color: black;
+} */

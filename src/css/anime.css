@@ -1,0 +1,509 @@
+/* ---- Informação ---- */
+/* ---- Título aanimes---- */
+h2{
+    text-decoration: underline 5px;
+}
+
+.titulo-anime-1{
+    text-decoration-color: red;
+}
+
+.titulo-anime-2{
+    text-decoration-color: goldenrod;
+}
+
+.titulo-anime-3{
+    text-decoration-color: orangered;
+}
+
+.titulo-anime-4{
+    text-decoration-color:  #953b44;
+}
+
+.titulo-anime-5{
+    text-decoration-color: gold;
+}
+
+.titulo-anime-6{
+    text-decoration-color: #f5b400;
+}
+
+.titulo-anime-7{
+    text-decoration-color: #f39d31;
+}
+
+.titulo-anime-8{
+    text-decoration-color: #3a8c70;
+}
+
+.titulo-anime-9{
+    text-decoration-color: #58bfcd;
+}
+
+.titulo-anime-10{
+    text-decoration-color: #918e47;
+}
+
+.titulo-anime-11{
+    text-decoration-color: #465e86;
+}
+
+.titulo-anime-12{
+    text-decoration-color: #a58273;
+}
+
+.titulo-anime-13{
+    text-decoration-color: #ED4024;
+}
+
+.titulo-anime-14{
+    text-decoration-color: #f7ce5d;
+}
+
+.titulo-anime-15{
+    text-decoration-color: #989789;
+}
+
+.titulo-anime-16{
+    text-decoration-color: #307526;
+}
+
+.titulo-anime-17{
+    text-decoration-color: #dbb762;
+}
+
+.titulo-anime-18{
+    text-decoration-color: #333534;
+}
+
+.titulo-anime-19{
+    text-decoration-color: #010101;
+}
+
+.titulo-anime-20{
+    text-decoration-color: #aa1420;
+}
+
+.titulo-anime-21{
+    text-decoration-color: #194b4c;
+}
+
+.titulo-anime-22{
+    text-decoration-color: #3754b8;
+}
+
+.titulo-anime-23{
+    text-decoration-color: #990c0c;
+}
+
+.titulo-anime-24{
+    text-decoration-color: #c13804;
+}
+
+.titulo-anime-25{
+    text-decoration-color: #d6403b;
+}
+
+.titulo-anime-26{
+    text-decoration-color: #8e5c44;
+}
+
+.titulo-anime-27{
+    text-decoration-color: #990025;
+}
+
+.titulo-anime-28{
+    text-decoration-color: #ff5c6d;
+}
+
+.titulo-anime-29{
+    text-decoration-color: #6a6c76;
+}
+
+.titulo-anime-30{
+    text-decoration-color: #b51925;
+}
+
+.titulo-anime-31{
+    text-decoration-color: #4b5b76;
+}
+
+.titulo-anime-32{
+    text-decoration-color: #515e38;
+}
+
+.titulo-anime-33{
+    text-decoration-color: #c98b28;
+}
+
+.titulo-anime-34{
+    text-decoration-color: #7aadf3;
+}
+
+.titulo-anime-35{
+    text-decoration-color: #c775c3;
+}
+
+.titulo-anime-36{
+    text-decoration-color: #90730f;
+}
+
+.titulo-anime-37{
+    text-decoration-color: #c52011;
+}
+
+.titulo-anime-38{
+    text-decoration-color: #bd7482;
+}
+
+.titulo-anime-39{
+    text-decoration-color: #272263;
+}
+
+.titulo-anime-40{
+    text-decoration-color: #a50001;
+}
+
+.titulo-anime-41{
+    text-decoration-color: #4c464f;
+}
+
+.titulo-anime-42{
+    text-decoration-color: #4a9b7a;
+}
+
+.titulo-anime-43{
+    text-decoration-color: #2e2124;
+}
+
+.titulo-anime-44{
+    text-decoration-color: #f14799;
+}
+
+.titulo-anime-45{
+    text-decoration-color: #cb5432;
+}
+
+.titulo-anime-46{
+    text-decoration-color: #444b92;
+}
+
+.titulo-anime-47{
+    text-decoration-color: #7d1029;
+}
+
+.titulo-anime-48{
+    text-decoration-color: #333263;
+}
+
+.titulo-anime-49{
+    text-decoration-color: #957f7b;
+}
+
+.titulo-anime-50{
+    text-decoration-color: #660608;
+}
+
+.titulo-anime-51{
+    text-decoration-color: #858162;
+}
+
+.titulo-anime-52{
+    text-decoration-color: #4b5638;
+}
+
+.titulo-anime-53{
+    text-decoration-color: #fca82a;
+}
+
+.titulo-anime-54{
+    text-decoration-color: #555579;
+}
+
+.titulo-anime-55{
+    text-decoration-color: #93474b;
+}
+
+.titulo-anime-56{
+    text-decoration-color: #13283d;
+}
+
+.titulo-anime-57{
+    text-decoration-color: #84a698;
+}
+
+.titulo-anime-58{
+    text-decoration-color: #be935e;
+}
+
+.titulo-anime-59{
+    text-decoration-color: #1f3b2d;
+}
+
+.titulo-anime-60{
+    text-decoration-color: #e7bb75;
+}
+
+/* .titulo-anime-61{
+    text-decoration-color: black;
+} */
+
+
+/* ---- imagens animes ---- */
+.imagem-anime-left img{
+    float: left;
+    width: 35%;
+    margin-right: 15px;
+    border: solid 5px;
+}
+
+.imagem-anime-right img{
+    float: right;
+    width: 35%;
+    margin-left: 15px;
+    border: solid 5px;
+}
+
+.imagem-anime-1 img{
+    border-color:  red;
+}
+
+.imagem-anime-2 img{
+    border-color: goldenrod;
+}
+
+.imagem-anime-3 img{
+    border-color: orangered;
+}
+
+.imagem-anime-4 img{
+    border-color: #953b44;
+}
+
+.imagem-anime-5 img{
+    border-color: gold;
+}
+
+.imagem-anime-6 img{
+    border-color: #f5b400;
+}
+
+.imagem-anime-7 img{
+    border-color: #f39d31;
+}
+
+.imagem-anime-8 img{
+    border-color: #3a8c70;
+}
+
+.imagem-anime-9 img{
+    border-color: #58bfcd;
+}
+
+.imagem-anime-10 img{
+    border-color: #918e47;
+}
+
+.imagem-anime-11 img{
+    border-color: #465e86;
+}
+
+.imagem-anime-12 img{
+    border-color: #a58273;
+}
+
+.imagem-anime-13 img{
+    border-color: #ED4024;
+}
+
+.imagem-anime-14 img{
+    border-color: #f7ce5d;
+}
+
+.imagem-anime-15 img{
+    border-color: #989789;
+}
+
+.imagem-anime-16 img{
+    border-color: #307526;
+}
+
+.imagem-anime-17 img{
+    border-color: #dbb762;
+}
+
+.imagem-anime-18 img{
+    border-color: #333534;
+}
+
+.imagem-anime-19 img{
+    border-color: #010101;
+}
+
+.imagem-anime-20 img{
+    border-color: #aa1420;
+}
+
+.imagem-anime-21 img{
+    border-color: #194b4c;
+}
+
+.imagem-anime-22 img{
+    border-color: #3754b8;
+}
+
+.imagem-anime-23 img{
+    border-color: #990c0c;
+}
+
+.imagem-anime-24 img{
+    border-color: #c13804;
+}
+
+.imagem-anime-25 img{
+    border-color: #d6403b;
+}
+
+.imagem-anime-26 img{
+    border-color: #8e5c44;
+}
+
+.imagem-anime-27 img{
+    border-color: #990025;
+}
+
+.imagem-anime-28 img{
+    border-color: #ff5c6d;
+}
+
+.imagem-anime-29 img{
+    border-color: #6a6c76;
+}
+
+.imagem-anime-30 img{
+    border-color: #b51925;
+}
+
+.imagem-anime-31 img{
+    border-color: #4b5b76;
+}
+
+.imagem-anime-32 img{
+    border-color: #515e38;
+}
+
+.imagem-anime-33 img{
+    border-color: #c98b28;
+}
+
+.imagem-anime-34 img{
+    border-color: #7aadf3;
+}
+
+.imagem-anime-35 img{
+    border-color: #c775c3;
+}
+
+.imagem-anime-36 img{
+    border-color: #90730f;
+}
+
+.imagem-anime-37 img{
+    border-color: #c52011;
+}
+
+.imagem-anime-38 img{
+    border-color: #bd7482;
+}
+
+.imagem-anime-39 img{
+    border-color: #272263;
+}
+
+.imagem-anime-40 img{
+    border-color: #a50001;
+}
+
+.imagem-anime-41 img{
+    border-color: #4c464f;
+}
+
+.imagem-anime-42 img{
+    border-color: #4a9b7a;
+}
+
+.imagem-anime-43 img{
+    border-color: #2e2124;
+}
+
+.imagem-anime-44 img{
+    border-color: #f14799;
+}
+
+.imagem-anime-45 img{
+    border-color: #cb5432;
+}
+
+.imagem-anime-46 img{
+    border-color: #444b92;
+}
+
+.imagem-anime-47 img{
+    border-color: #7d1029;
+}
+
+.imagem-anime-48 img{
+    border-color: #333263;
+}
+
+.imagem-anime-49 img{
+    border-color: #957f7b;
+}
+
+.imagem-anime-50 img{
+    border-color: #660608;
+}
+
+.imagem-anime-51 img{
+    border-color: #858162;
+}
+
+.imagem-anime-52 img{
+    border-color: #4b5638;
+}
+
+.imagem-anime-53 img{
+    border-color: #fca82a;
+}
+
+.imagem-anime-54 img{
+    border-color: #555579;
+}
+
+.imagem-anime-55 img{
+    border-color: #93474b;
+}
+
+.imagem-anime-56 img{
+    border-color: #13283d;
+}
+
+.imagem-anime-57 img{
+    border-color: #84a698;
+}
+
+.imagem-anime-58 img{
+    border-color: #be935e;
+}
+
+.imagem-anime-59 img{
+    border-color: #1f3b2d;
+}
+
+.imagem-anime-60 img{
+    border-color: #e7bb75;
+}
+
+/* .imagem-anime-61 img{
+    border-color: black;
+} */
