@@ -4,3 +4,23 @@ main h2{
     margin-top: 15px;
     margin-bottom: 50px;
 }
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.books{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 183px;
+    height: 285px;
+}
+
+.books img{
+    width: 100%;
+}
