@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@100;300;400;600;700;800&display=swap');
+
+html{
+    font-family: 'Public Sans', sans-serif;
+}
+
 /* ---- Cabeçalho ---- */
 .cabecalho{
     padding: 10px 5px;
