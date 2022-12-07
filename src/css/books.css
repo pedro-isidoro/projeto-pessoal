@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@100;300;400;600;700;800&display=swap');
+
 /* ---- Informação ---- */
+html{
+    font-family: 'Public Sans', sans-serif;
+}
+
 main h2{
+    font-weight: 300;
     font-size: 1.5rem;
     margin-top: 15px;
     margin-bottom: 50px;
@@ -7,20 +14,23 @@ main h2{
 
 main{
     display: flex;
+    height: 100vh;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
 }
 
-.books{
+.harry-potter{
     display: flex;
-    flex-direction: row;
     justify-content: center;
-    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.harry-potter .book{
     width: 183px;
     height: 285px;
 }
 
-.books img{
+.harry-potter .book img{
     width: 100%;
 }
