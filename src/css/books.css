@@ -13,18 +13,18 @@ main{
     align-items: center;
 }
 
-.harry-potter{
+.books{
     display: flex;
     justify-content: center;
     gap: 10px;
     flex-wrap: wrap;
 }
 
-.harry-potter .book{
+.books .book{
     width: 183px;
     height: 285px;
 }
 
-.harry-potter .book img{
+.books .book img{
     width: 100%;
 }
