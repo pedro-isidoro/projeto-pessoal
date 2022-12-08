@@ -10,10 +10,11 @@ html{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #3D5A80;
+    background-color: #395C6B;
 }
 
 .cabecalho .logo h1{
+    color: #ffffff;
     font-size: 2rem;
     margin-left: 2rem;
 }
@@ -31,11 +32,11 @@ html{
 }
 
 a:not(a[target=_blank]){
-    color: #000000;
+    color: #ffffff;
 }
 
 .menu li a:hover{
-    color: #ffffff;
+    color: #000000;
 }
 
 /* ---- Conteúdo ---- */
