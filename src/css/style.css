@@ -10,7 +10,7 @@ html{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #72a4d7;
+    background-color: #3D5A80;
 }
 
 .cabecalho .logo h1{
@@ -40,7 +40,7 @@ a:not(a[target=_blank]){
 
 /* ---- Conteúdo ---- */
 body{
-    background-color: #E1E2E1;
+    background-color: #AAC0AF;
     font-family: 'Public Sans', sans-serif;
     font-size: 30px;
 }
@@ -56,7 +56,7 @@ body{
 
 /* Informação */
 main{
-    background-color: #bfc3c9;
+    background-color: #839791;
     padding: 30px;
     min-width: 400px;
     max-width: 1000px;
