@@ -21,6 +21,7 @@ main{
 }
 
 .books .book{
+    display: flex;
     width: 183px;
     height: 285px;
 }
