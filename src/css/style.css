@@ -6,32 +6,44 @@ html{
 
 /* ---- Cabeçalho ---- */
 .cabecalho{
-    padding: 10px 5px;
+    padding: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #395C6B;
 }
 
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho .logo img{
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+}
+
 .cabecalho .logo h1{
     color: #ffffff;
     font-size: 2rem;
-    margin-left: 2rem;
+    margin-left: 10px;
 }
 
 .menu{
     display: flex;
-    margin-right: 2rem;
+    align-items: center;
+    /* margin-right: 2rem; */
 }
 
 .menu li a{
     font-size: 1.3rem;
-    margin-left: 15px;
     padding: 10px 5px;
+    margin-left: 15px;
     transition: 0.3s ease-in-out;
 }
 
-a:not(a[target=_blank]){
+.menu li a:not(a[target=_blank]){
     color: #ffffff;
 }
 
