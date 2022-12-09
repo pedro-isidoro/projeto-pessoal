@@ -13,6 +13,10 @@ main{
     align-items: center;
 }
 
+main .titulo-geral{
+    margin-bottom: 20px;
+}
+
 .books{
     display: flex;
     justify-content: center;
