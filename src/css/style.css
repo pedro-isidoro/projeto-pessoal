@@ -43,7 +43,7 @@ html{
     transition: 0.3s ease-in-out;
 }
 
-.menu li a:not(a[target=_blank]){
+a:not(a[target=_blank]){
     color: #ffffff;
 }
 
