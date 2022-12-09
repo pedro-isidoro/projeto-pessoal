@@ -16,6 +16,7 @@ html{
 .logo{
     display: flex;
     align-items: center;
+    font-size: 20px;
 }
 
 .cabecalho .logo img{
@@ -33,11 +34,10 @@ html{
 .menu{
     display: flex;
     align-items: center;
-    /* margin-right: 2rem; */
+    font-size: 15px;
 }
 
 .menu li a{
-    font-size: 1.3rem;
     padding: 10px 5px;
     margin-left: 15px;
     transition: 0.3s ease-in-out;
