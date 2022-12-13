@@ -1,7 +1,7 @@
 /* ---- Informação ---- */
 /* ---- Título Webtoon---- */
 h2{
-    text-decoration: underline 5px;
+    text-decoration: underline 3px;
 }
 
 .titulo-webtoon-1{
@@ -129,14 +129,14 @@ h2{
     float: right;
     width: 35%;
     margin-left: 15px;
-    border: solid 5px;
+    border: solid 3px;
 }
 
 .imagem-webtoon-left img{
     float: left;
     width: 35%;
     margin-right: 15px;
-    border: solid 5px;
+    border: solid 3px;
 }
 
 .imagem-webtoon-1 img{

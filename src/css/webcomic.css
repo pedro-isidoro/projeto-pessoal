@@ -1,7 +1,7 @@
 /* ---- Informação ---- */
 /* ---- Título Webcomic ---- */
 h2{
-    text-decoration: underline 5px;
+    text-decoration: underline 3px;
 }
 
 .titulo-webcomic-1{
@@ -21,14 +21,14 @@ h2{
     float: left;
     width: 35%;
     margin-right: 15px;
-    border: solid 5px;
+    border: solid 3px;
 }
 
 .imagem-webcomic-right img{
     float: right;
     width: 35%;
     margin-left: 15px;
-    border: solid 5px;
+    border: solid 3px;
 }
 
 .imagem-webcomic-1 img{
