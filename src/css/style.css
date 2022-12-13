@@ -48,7 +48,8 @@ a:not(a[target=_blank]){
 }
 
 .menu li a:hover{
-    color: #000000;
+    background-color: #67461f;
+    color: #ffffff;
 }
 
 /* ---- Conteúdo ---- */
