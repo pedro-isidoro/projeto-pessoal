@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@100;300;400;600;700;800&display=swap');
 
+/* O font-size de 62.5%, transforma a fonte padrão de 16px para 10px */
 html{
-    font-family: 'Public Sans', sans-serif;
+    font-size: 62.5%;
 }
 
 /* ---- Cabeçalho ---- */
@@ -26,19 +27,19 @@ html{
 
 .cabecalho .logo h1{
     color: #ffffff;
-    font-size: 20px;
+    font-size: 2rem;
     margin-left: 10px;
 }
 
 .menu{
     display: flex;
     align-items: center;
-    font-size: 15px;
+    font-size: 1.5rem;
 }
 
 .menu li a{
     padding: 10px 5px;
-    margin-left: 15px;
+    margin-left: 1.5rem;
     transition: 0.3s ease-in-out;
 }
 
@@ -54,15 +55,15 @@ a:not(a[target=_blank]){
 body{
     background-color: #0d1118;
     font-family: 'Public Sans', sans-serif;
-    font-size: 30px;
+    font-size: 3rem;
 }
 
 .home h1{
-    font-size: 2.2rem;
+    font-size: 3rem;
     text-align: center;
 }
 .home p{
-    font-size: 1.3rem;
+    font-size: 2rem;
     text-align: justify;
 }
 
@@ -78,60 +79,31 @@ main{
 
 main .titulo-geral{
     text-align: center;
-    font-size: 2.5rem;
+    font-size: 3.5rem;
 }
 
 main h2{
-    font-size: 1.5rem;
+    font-size: 2.2rem;
     margin-top: 40px;
     margin-bottom: 15px;
 }
 
 main h3{
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     margin-bottom: 5px;
 }
 
 main p{
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     text-align: justify;
     line-height: 24px;
 }
 
 section{
-    margin-bottom: 3rem;
+    margin-bottom: 4rem;
 }
 
 hr{
     width: 100%;
     border-color: #000000;
 }
-
-/* Media Querie */
-/* @media(max-width: 425px){
-    .logo{
-        display: block;
-        width: 100%;
-        text-align: center;
-        margin-left: 0;
-    }
-
-    nav{
-        width: 100%;
-        text-align: center;
-    }
-
-    .menu{
-        display: block;
-        margin-top: 30px;
-    }
-
-    .menu li{
-        margin-left: 0;
-    }
-
-    .menu a{
-        display: block;
-        padding: 10px;
-    }
-} */
