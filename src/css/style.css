@@ -8,7 +8,7 @@ html{
 /* ---- Cabeçalho ---- */
 .cabecalho{
     padding: 5px 10px;
-    background-color: #2e4f79;
+    background-color: #0d1a38;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -26,7 +26,7 @@ html{
 }
 
 .cabecalho .logo h1{
-    color: #ffffff;
+    color: #e2b25e;
     font-size: 2rem;
     margin-left: 10px;
 }
@@ -44,7 +44,7 @@ html{
 }
 
 a:not(a[target=_blank]){
-    color: #ffffff;
+    color: #e2b25e;
 }
 
 .menu li a:hover{
@@ -53,7 +53,7 @@ a:not(a[target=_blank]){
 
 /* ---- Conteúdo ---- */
 body{
-    background-color: #0d1118;
+    background-color: #132652;
     font-family: 'Public Sans', sans-serif;
     font-size: 3rem;
 }
@@ -69,7 +69,7 @@ body{
 
 /* Informação */
 main{
-    background-color: #c1c3c7;
+    background-color: #9b979c;
     padding: 30px;
     min-width: 400px;
     max-width: 1000px;
