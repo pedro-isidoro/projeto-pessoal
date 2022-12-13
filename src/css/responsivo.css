@@ -11,7 +11,7 @@
     }
 
     .logo{
-        margin-top: 1.5rem;
+        margin-top: 1rem;
         display: flex;
         flex-direction: column;
         width: 100%;
@@ -19,9 +19,15 @@
         margin-left: 0;
     }
 
+    .cabecalho .logo img{
+        border-radius: 50%;
+        width: 90px;
+        height: 90px;
+    }
+
     .cabecalho .logo h1{
         font-size: 3.8rem;
-        margin-top: 10px;
+        margin-top: 6px;
         margin-bottom: 0;
     }
 
