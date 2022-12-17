@@ -1,0 +1,36 @@
+/* ---- Informação ---- */
+/* ---- Título aanimes---- */
+h2{
+    text-decoration: underline 3px;
+}
+
+.titulo-anime-1{
+    text-decoration-color: black;
+}
+
+.titulo-anime-2{
+    text-decoration-color: black;
+}
+
+/* ---- imagens animes ---- */
+.imagem-anime-left img{
+    float: left;
+    width: 35%;
+    margin-right: 15px;
+    border: solid 3px;
+}
+
+.imagem-anime-right img{
+    float: right;
+    width: 35%;
+    margin-left: 15px;
+    border: solid 3px;
+}
+
+.imagem-anime-1 img{
+    border-color: black;
+}
+
+.imagem-anime-2 img{
+    border-color: black;
+}
