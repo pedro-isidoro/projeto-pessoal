@@ -12,6 +12,10 @@ h2{
     text-decoration-color: black;
 } */
 
+/* .titulo-anime-3{
+    text-decoration-color: black;
+} */
+
 /* ---- imagens animes ---- */
 .imagem-anime-left img{
     float: left;
@@ -32,5 +36,9 @@ h2{
 }
 
 /* .imagem-anime-2 img{
+    border-color: black;
+} */
+
+/* .imagem-anime-3 img{
     border-color: black;
 } */
