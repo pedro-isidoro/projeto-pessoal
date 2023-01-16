@@ -244,7 +244,11 @@ h2{
     text-decoration-color: #e7bb75;
 }
 
-/* .titulo-anime-61{
+.titulo-anime-61{
+    text-decoration-color: #1b74c0;
+}
+
+/* .titulo-anime-62{
     text-decoration-color: black;
 } */
 
@@ -504,6 +508,10 @@ h2{
     border-color: #e7bb75;
 }
 
-/* .imagem-anime-61 img{
+.imagem-anime-61 img{
+    border-color: #1b74c0;
+}
+
+/* .imagem-anime-62 img{
     border-color: black;
 } */
