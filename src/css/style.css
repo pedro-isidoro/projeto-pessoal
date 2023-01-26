@@ -57,6 +57,9 @@ body{
     background-color: #132652;
     font-family: 'Public Sans', sans-serif;
     font-size: 3rem;
+
+    display: flex;
+    flex-direction: column;
 }
 
 .home h1{
@@ -112,20 +115,27 @@ hr{
 /* Rodapé */
 .rodape{
     display: flex;
-    justify-content: flex-start;
     align-items: center;
+    justify-content: flex-start;
+    width: minmax(400px, 1000px);
     background-color: #132652;
-    width: 100%;
+}
 
-    border-top: solid 3px #000000;
-    position: absolute;
+.rodape .contatos{
+    padding: 20px 145px;
 }
 
 .rodape .title{
     color: #000000;
+    font-size: 3rem;
+
+    margin-bottom: 10px;
 }
 
 .rodape .redes-sociais{
     display: flex;
     flex-direction: column;
+
+    font-size: 2rem;
+    line-height: 28px;
 }
