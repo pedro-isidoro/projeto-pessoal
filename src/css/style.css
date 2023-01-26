@@ -111,6 +111,13 @@ hr{
 
 /* Rodapé */
 .rodape{
-    background-color: #0d1a38;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    background-color: #132652;
     width: 100%;
+}
+
+.rodape .title{
+    color: #000000;
 }
