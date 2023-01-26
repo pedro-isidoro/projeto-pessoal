@@ -108,3 +108,9 @@ hr{
     width: 100%;
     border-color: #000000;
 }
+
+/* Rodapé */
+.rodape{
+    background-color: #0d1a38;
+    width: 100%;
+}
