@@ -119,10 +119,12 @@ hr{
     justify-content: flex-start;
     width: minmax(400px, 1000px);
     background-color: #132652;
+
+    border-top: solid 3px #000000;
 }
 
 .rodape .contatos{
-    padding: 20px 145px;
+    padding: 20px 20px;
 }
 
 .rodape .title{
