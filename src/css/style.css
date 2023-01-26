@@ -111,13 +111,21 @@ hr{
 
 /* Rodapé */
 .rodape{
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
     background-color: #132652;
     width: 100%;
+
+    border-top: solid 3px #000000;
+    position: absolute;
 }
 
 .rodape .title{
     color: #000000;
+}
+
+.rodape .redes-sociais{
+    display: flex;
+    flex-direction: column;
 }
