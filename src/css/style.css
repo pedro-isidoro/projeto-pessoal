@@ -145,7 +145,17 @@ hr{
     margin-bottom: 10px;
 }
 
+.rodape .contatos .redes-sociais .redes:hover{
+    background-color: #e2b25e;
+    border-radius: 50%;
+
+}
+
 .rodape .contatos .redes-sociais .redes .fab{
-    margin-right: 10px;
+    margin: 6px;
     color: #e2b25e;
+}
+
+.rodape .contatos .redes-sociais .redes .fab:hover{
+    color: #ec0707;
 }
