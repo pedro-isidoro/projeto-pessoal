@@ -136,24 +136,16 @@ hr{
 
 .rodape .contatos .redes-sociais{
     display: flex;
-    flex-direction: column;
-
-    line-height: 28px;
 }
 
 .rodape .contatos .redes-sociais .redes{
     display: flex;
     align-items: center;
 
-    line-height: 20px;
     margin-bottom: 10px;
 }
 
 .rodape .contatos .redes-sociais .redes .fab{
     margin-right: 10px;
     color: #e2b25e;
-}
-
-.rodape .contatos .redes-sociais .names-redes-sociais{
-    font-size: 1.7rem;
 }
