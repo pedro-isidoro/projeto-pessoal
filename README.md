@@ -5,3 +5,7 @@ Apenas uma forma de aprender e colocar em prática o que estou estudando.
 ## Tecnologias Utilizadas
 - HTML
 - CSS
+
+## Métodos
+Foi usado nas páginas HTML, mangas e animes, position float para conseguir colocar o texto ao redor da imagem.
+Já no HTML, books, display flex, com flex direction e flex-wrap.
