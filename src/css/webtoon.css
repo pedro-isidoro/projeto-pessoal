@@ -148,11 +148,19 @@ h2{
     text-decoration-color: #987f82;
 }
 
-/* .titulo-webtoon-37{
-    text-decoration-color: black;
-} */
+.titulo-webtoon-37{
+    text-decoration-color: #4C473F;
+}
 
-/* .titulo-webtoon-38{
+.titulo-webtoon-38{
+    text-decoration-color: #404877;
+}
+
+.titulo-webtoon-39{
+    text-decoration-color: black;
+}
+
+/* .titulo-webtoon-40{
     text-decoration-color: black;
 } */
 
@@ -319,10 +327,18 @@ h2{
     width: 30%;
 }
 
-/* .imagem-webtoon-37 img{
-    border-color: black;
-} */
+.imagem-webtoon-37 img{
+    border-color: #4C473F;
+}
 
-/* .imagem-webtoon-38 img{
+.imagem-webtoon-38 img{
+    border-color: #404877;
+}
+
+.imagem-webtoon-39 img{
+    border-color: black;
+}
+
+/* .imagem-webtoon-40 img{
     border-color: black;
 } */
