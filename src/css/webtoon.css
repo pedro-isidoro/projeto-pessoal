@@ -157,7 +157,7 @@ h2{
 }
 
 .titulo-webtoon-39{
-    text-decoration-color: black;
+    text-decoration-color: #D3A00E;
 }
 
 /* .titulo-webtoon-40{
@@ -336,7 +336,8 @@ h2{
 }
 
 .imagem-webtoon-39 img{
-    border-color: black;
+    border-color: #D3A00E;
+    width: 50%;
 }
 
 /* .imagem-webtoon-40 img{
