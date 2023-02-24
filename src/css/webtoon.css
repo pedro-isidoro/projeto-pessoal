@@ -160,7 +160,15 @@ h2{
     text-decoration-color: #D3A00E;
 }
 
-/* .titulo-webtoon-40{
+.titulo-webtoon-40{
+    text-decoration-color: #5F6AAE;
+}
+
+.titulo-webtoon-41{
+    text-decoration-color: #5F6AAE;
+}
+
+/* .titulo-webtoon-42{
     text-decoration-color: black;
 } */
 
@@ -340,6 +348,14 @@ h2{
     width: 50%;
 }
 
-/* .imagem-webtoon-40 img{
+.imagem-webtoon-40 img{
+    border-color: #5F6AAE;
+}
+
+.imagem-webtoon-41 img{
+    border-color: #5F6AAE;
+}
+
+/* .imagem-webtoon-42 img{
     border-color: black;
 } */
