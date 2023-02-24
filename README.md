@@ -13,7 +13,6 @@ Apenas uma forma de aprender e colocar em prática o que estou estudando.
 - HTML
 - CSS
 <br>
-<br>
 
 ## Métodos
 Foi usado nos arquivos HTML: mangas e animes, position float para conseguir colocar o texto ao redor da imagem.
