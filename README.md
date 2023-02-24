@@ -12,6 +12,7 @@ Apenas uma forma de aprender e colocar em prática o que estou estudando.
 ## Objetivos
 Fazer um site, em um estilo de biblioteca pessoal, com as séries de livros e animações orientais e ocidentais das quais eu gosto.
 <br>
+<br>
 
 ## Tecnologias Utilizadas
 - HTML
