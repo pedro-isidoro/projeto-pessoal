@@ -9,6 +9,10 @@ Apenas uma forma de aprender e colocar em prática o que estou estudando.
 <br>
 <br>
 
+## Objetivos
+Fazer um site, em um estilo de biblioteca pessoal, com as séries de livros e animações orientais e ocidentais das quais eu gosto.
+<br>
+
 ## Tecnologias Utilizadas
 - HTML
 - CSS
@@ -18,10 +22,6 @@ Apenas uma forma de aprender e colocar em prática o que estou estudando.
 Foi usado nos arquivos HTML: mangas e animes, position float para conseguir colocar o texto ao redor da imagem.
 Já no HTML: books, usei display flex, com flex direction e flex-wrap.
 <br>
-<br>
-
-## Objetivos
-Fazer um site, em um estilo de biblioteca pessoal, com as séries de livros e animações orientais e ocidentais das quais eu gosto.
 <br>
 
 ## Desafios
