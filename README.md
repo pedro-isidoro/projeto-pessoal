@@ -26,3 +26,4 @@ Fazer um site, em um estilo de biblioteca pessoal, com as séries de livros e an
 
 ## Desafios
 Conseguir deixar as páginas de uma forma responsiva e de qualidade para os principais tamanhos de tela. <br>
+Conseguir colocar as diversas obras de modo que fique apresentavel e de fácil compreensão.
