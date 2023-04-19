@@ -10,7 +10,7 @@ Apenas uma forma de aprender e colocar em prática o que estou estudando.
 <br>
 
 ## Objetivos
-Fazer um site, em um estilo de biblioteca pessoal, com as séries de livros e animações orientais e ocidentais das quais eu gosto.
+Fazer um site, num estilo de biblioteca pessoal, com séries de livros e animações orientais e ocidentais das quais eu gosto.
 <br>
 <br>
 
