@@ -18,7 +18,6 @@ Fazer um site, num estilo de biblioteca pessoal, com séries de livros e animaç
 - HTML
 - CSS
 <br>
-<br>
 
 ## Métodos
 Foi usado nos arquivos HTML: mangas e animes, position float para conseguir colocar o texto ao redor da imagem.
